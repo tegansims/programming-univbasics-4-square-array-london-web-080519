@@ -11,4 +11,4 @@ end
 
 example_array = [1, 2, 3]
 
-square_array(example_array)
+puts square_array(example_array)
